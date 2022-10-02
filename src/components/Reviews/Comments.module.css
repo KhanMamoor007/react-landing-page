@@ -1,0 +1,69 @@
+.commentsContainer {
+    width: 100%;
+    height: 350px;
+    text-align: start;
+    margin-top: 60px;
+}
+
+.commentsList {
+    width: 100%;
+    height: 230px;
+}
+
+.comments {
+    width: 400px;
+    height: 230px;
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid #DDDDDD;
+    transition: all .3s;
+}
+.comments:hover {
+    border: 2px solid #F53838;
+    box-shadow: 0 20px 30px rgba(0,0,0,.08);
+}
+
+.userDetails {
+    margin-bottom: 20px;
+}
+
+.commentsControls {
+    display: flex;
+}
+
+.commentsTracker {
+    width: 135px;
+    height: 15px;
+    margin-top: 82.5px;
+    margin-bottom: 22.5px;
+    
+}
+
+.commentsTracker span {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #DDE0E4;
+}
+
+.commentsTracker .active {
+    width: 45px;
+    height: 15px;
+    border-radius: 20px;
+    background-color: #F53838;
+}
+
+.btnContainer {
+    width: max-content;
+    margin-top: 60px;
+    margin-left: 865px;
+    margin-right: 160px;
+    display: flex;
+}
+
+
+.flexBetweenCenter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.network {
+    margin-top: 74px;
+    margin-bottom: 29px;
+    background-color: #fefefe;
+}
+
+.container {
+    max-width: 1136px;
+    margin: auto;
+}

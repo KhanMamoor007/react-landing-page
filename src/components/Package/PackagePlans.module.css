@@ -1,0 +1,35 @@
+.packagePlanContainer {
+    max-height: 760px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.packageItem {
+    width: 330px;
+    height: 760px;
+    border-radius: 10px;
+    margin-right: 50px;
+    border: 2px solid #DDDDDD;
+    position: relative;
+    transition: all .3s;
+    box-sizing: border-box;
+}
+.packagePlanContainer > :last-child {
+    margin-right: 0;
+}
+
+
+.packageItem:hover {
+    border: 2px solid #F53838;   
+}
+
+
+.image {
+    width: 144.9px;
+    height: 165.37px;
+    margin: auto;
+    margin-top: 79.63px;
+    margin-bottom: 20.5px;
+}

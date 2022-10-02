@@ -1,0 +1,17 @@
+.footer {
+    margin-top: 88px;
+    background-color: #F8F8F8;
+    padding: 176px 148px;
+    padding-bottom: 100px;
+    /* padding-top: 180px; */
+}
+
+
+.container {
+    margin: auto;
+    max-width: 1140px;
+    max-height: 284px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}

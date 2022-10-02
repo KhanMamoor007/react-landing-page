@@ -1,0 +1,24 @@
+.features {
+  margin-top: 46px;
+  margin-bottom: 105px;
+  box-sizing: content-box;
+  box-shadow: 0 30px 30px rgba(0, 0, 0, 0.02);
+  background-color: #fafafa;
+}
+
+.container {
+  max-width: 1105.48px;
+  max-height: 416.17px;
+  /* padding: 0 150px 131.57px 184.52px; */
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin: auto;
+}
+
+.textContainer {
+  width: 427.88px;
+  height: 365px;
+  text-align: start;
+  margin-left: 168px;
+}
